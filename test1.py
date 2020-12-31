@@ -11,4 +11,5 @@ def get_initial(name, force_uppercase=True):
 first_name = input('Please enter your name: ')
 first_name_initial = get_initial(force_uppercase=True, name=first_name)
 
-print('Your initial is: ' + first_name_initial)
+print('Your initial are: ' + first_name_initial)
+print("hello world!")
